@@ -175,9 +175,3 @@ fun fact:  I love debugging > coding 😄
 
 </div>
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Di-Abhi/Di-Abhi/output/snake.svg" alt="snake gif" />
-</p>
-**
