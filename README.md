@@ -1,49 +1,183 @@
-<!-- Typing Animation Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Kumar;Full-Stack+Developer+%7C+Tech+Explorer;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
-</p>
-
-<!-- Hero GIF -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:0f0f23,100:07090f&height=200&section=header&text=Abhishek%20Kumar&fontSize=60&fontColor=f0f4ff&fontAlignY=55&animation=fadeIn&desc=Full-Stack%20Developer%20·%20AI%20Explorer%20·%20Open%20Source&descAlignY=78&descSize=14&descColor=6b7280" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/▶%20Currently%20Building-NeighborFit-22c55e?style=flat-square&labelColor=0f172a)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-f43f5e?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-22c55e?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-38bdf8?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f97316?style=flat-square&logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-6366f1?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=flat-square&logo=postgresql&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-a855f7?style=flat-square&logo=openai&logoColor=white)
+
 </div>
 
 ---
 
-### 🙋‍♂️ About Me
-```diff
-+ Passionate Full Stack Developer
-+ Proficient in React, Node.js, MongoDB, Java, and Python
-+ Exploring AI-Powered Apps & Automation Tools
-+ Open Source Contributor and Community Enthusiast
-+ Always curious to learn new technologies
-+ Currently building: NeighborFit – AI-based lifestyle-matching platform
-+ Learning: AI integrations with web apps
-+ I write tech articles on LinkedIn
-+ Ask me about: React, Node.js, MongoDB, Python, Java
-+ Reach me at: abhishekkumar.dev@gmail.com
-+ Fun fact: I love debugging more than coding 😄
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
+### `01` About
+
+```yaml
+building:  NeighborFit — AI lifestyle platform
+exploring: LLM integrations · Automation
+writing:   Tech articles on LinkedIn
+contact:   abhi993575@gmail.com
+fun fact:  I love debugging > coding 😄
 ```
 
-### 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/abhishek-kumar-rathour/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:abhi993575@gmail.com"> <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Di-Abhi"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://abhi-vibes.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+</td>
+<td width="50%" valign="top">
 
+### `02` Now
 
-### 💻 Tech Stack
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+```diff
++ Shipping: NeighborFit
++ Learning: LLM × MERN stack integration
++ Reading:  System design & architecture
+# Open to: Collabs & OSS contributions
+```
 
+</td>
+</tr>
+</table>
 
-### 📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Di-Abhi&show_icons=true&theme=radical&count_private=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Abhi&layout=compact&theme=radical" height="150" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Di-Abhi&theme=radical" height="150"/> </p>
+---
 
+### `03` Tech Stack
 
-### 🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Di-Abhi&theme=radical&no-bg=true&no-frame=true" /> </p>
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
+![Express.js](https://img.shields.io/badge/Express.js-1e293b?style=for-the-badge&logo=express&logoColor=94a3b8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=4ade80)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Languages & Tools**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3572A5)
+![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=f89820)
+![C](https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=6366f1)
+![C++](https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
+
+---
+
+### `04` Featured Project
+
+<table>
+<tr>
+<td>
+
+**🚀 NeighborFit** &nbsp; `AI-POWERED` &nbsp; `IN PROGRESS` &nbsp; `MERN STACK`
+
+> An AI-based lifestyle-matching platform that connects people with compatible neighbours.
+> Powered by ML-driven matchmaking — analyzing habits, interests, and lifestyle to surface meaningful community connections.
+
+`React` &nbsp; `Node.js` &nbsp; `MongoDB` &nbsp; `Python` &nbsp; `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+---
+
+### `05` GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Di-Abhi&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=f43f5e&text_color=475569&bg_color=0d1117&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Abhi&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=475569&bg_color=0d1117" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Di-Abhi&theme=transparent&hide_border=true&ring=6366f1&fire=f43f5e&currStreakLabel=6366f1&sideLabels=475569&dates=1e293b&currStreakNum=f0f4ff&sideNums=f0f4ff" height="165" />
+
+</div>
+
+---
+
+### `06` Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Di-Abhi&theme=onedark&no-bg=true&no-frame=true&margin-w=8&column=7" />
+
+</div>
+
+---
+
+### `07` Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Di-Abhi/Di-Abhi/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Di-Abhi/Di-Abhi/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Di-Abhi/Di-Abhi/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
+### `08` Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/abhishek-kumar-rathour/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/Di-Abhi)
+[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=f43f5e)](mailto:abhi993575@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=22c55e)](https://abhi-vibes.netlify.app)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07090f,50:0f0f23,100:6366f1&height=80&section=footer" />
+
+<sub><sup>Built with ♥ &nbsp;·&nbsp; Di-Abhi &nbsp;·&nbsp; github.com/Di-Abhi</sup></sub>
+
+</div>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Di-Abhi/Di-Abhi/output/snake.svg" alt="snake gif" />
 </p>
+**
