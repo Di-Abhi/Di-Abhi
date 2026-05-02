@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/▶%20Currently%20Building-NeighborFit-22c55e?style=flat-square&labelColor=0f172a)
+![Status](https://img.shields.io/badge/▶%20Currently%20Building-DigitalWallet-22c55e?style=flat-square&labelColor=0f172a)
 
 <br/>
 
